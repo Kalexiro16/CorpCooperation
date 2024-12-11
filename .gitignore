@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / compiled Python files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Node.js modules
+node_modules/
+
+# Log files and databases
+*.log
+*.sqlite3
+*.db
+
+# Ignore pickle files (specific file and all .pkl files)
+# label_encoder_crop.pkl
+*.pkl
+
+# System files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Environment variable files
+.env
